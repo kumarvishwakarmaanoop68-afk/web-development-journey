@@ -25,11 +25,26 @@ Build strong frontend and backend skills by learning concepts, practicing regula
 | Area | Status |
 |---|---|
 | HTML Basics | 🟢 Day 1 Completed |
-| CSS | 🔵 Next |
+| CSS Basics | 🟢 Day 2 Completed |
 | JavaScript | 🔵 Upcoming |
 | React | 🔵 Upcoming |
 | Backend | 🔵 Upcoming |
 | Full-Stack Projects | 🔵 Upcoming |
+
+## 📂 Day 1
+
+### HTML Basics — Personal Portfolio
+
+- `01-html-basics/index.html`
+- `01-html-basics/README.md`
+
+## 📂 Day 2
+
+### CSS Basics — Styled Portfolio
+
+- `02-css-basics/index.html`
+- `02-css-basics/style.css`
+- `02-css-basics/README.md`
 
 ## 💡 Learning Philosophy
 
