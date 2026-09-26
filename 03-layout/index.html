@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Layout Practice</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header class="hero">
+        <h1>My Projects</h1>
+        <p>Day 3 — Flexbox & Grid Layout</p>
+    </header>
+
+    <nav class="navbar">
+        <a href="#projects">Projects</a>
+        <a href="#skills">Skills</a>
+        <a href="#contact">Contact</a>
+    </nav>
+
+    <main class="container">
+
+        <section id="projects">
+            <h2>Featured Projects</h2>
+
+            <div class="project-grid">
+                <article class="project-card">
+                    <span class="badge">Python</span>
+                    <h3>Expense Tracker</h3>
+                    <p>A console application for tracking income and expenses with JSON storage.</p>
+                    <a href="#">View Project</a>
+                </article>
+
+                <article class="project-card">
+                    <span class="badge">Python API</span>
+                    <h3>Weather API App</h3>
+                    <p>A Python application that fetches weather information from a public API.</p>
+                    <a href="#">View Project</a>
+                </article>
+
+                <article class="project-card">
+                    <span class="badge">HTML + CSS</span>
+                    <h3>Portfolio Website</h3>
+                    <p>A beginner portfolio website built with semantic HTML and CSS.</p>
+                    <a href="#">View Project</a>
+                </article>
+            </div>
+        </section>
+
+        <section id="skills" class="skills-section">
+            <h2>Skills</h2>
+
+            <div class="skills-list">
+                <span>HTML</span>
+                <span>CSS</span>
+                <span>JavaScript</span>
+                <span>Python</span>
+                <span>C++</span>
+            </div>
+        </section>
+
+        <section id="contact" class="contact-section">
+            <h2>Contact</h2>
+            <p>Let's build something useful.</p>
+            <button>Contact Me</button>
+        </section>
+
+    </main>
+
+    <footer>
+        <p>&copy; 2026 Web Development Journey</p>
+    </footer>
+
+</body>
+</html>
