@@ -26,6 +26,8 @@ Build strong frontend and backend skills by learning concepts, practicing regula
 |---|---|
 | HTML Basics | 🟢 Day 1 Completed |
 | CSS Basics | 🟢 Day 2 Completed |
+| CSS Layout | 🟢 Day 3 Completed |
+| Responsive Design | 🔵 Upcoming |
 | JavaScript | 🔵 Upcoming |
 | React | 🔵 Upcoming |
 | Backend | 🔵 Upcoming |
@@ -45,6 +47,14 @@ Build strong frontend and backend skills by learning concepts, practicing regula
 - `02-css-basics/index.html`
 - `02-css-basics/style.css`
 - `02-css-basics/README.md`
+
+## 📂 Day 3
+
+### CSS Layout — Flexbox & Grid
+
+- `03-layout/index.html`
+- `03-layout/style.css`
+- `03-layout/README.md`
 
 ## 💡 Learning Philosophy
 
