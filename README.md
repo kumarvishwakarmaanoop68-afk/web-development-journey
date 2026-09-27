@@ -27,7 +27,7 @@ Build strong frontend and backend skills by learning concepts, practicing regula
 | HTML Basics | 🟢 Day 1 Completed |
 | CSS Basics | 🟢 Day 2 Completed |
 | CSS Layout | 🟢 Day 3 Completed |
-| Responsive Design | 🔵 Upcoming |
+| Responsive Design | 🟢 Day 4 Completed |
 | JavaScript | 🔵 Upcoming |
 | React | 🔵 Upcoming |
 | Backend | 🔵 Upcoming |
@@ -55,6 +55,14 @@ Build strong frontend and backend skills by learning concepts, practicing regula
 - `03-layout/index.html`
 - `03-layout/style.css`
 - `03-layout/README.md`
+
+## 📂 Day 4
+
+### Responsive Web Design — Responsive Portfolio Landing Page
+
+- `04-responsive-design/index.html`
+- `04-responsive-design/style.css`
+- `04-responsive-design/README.md`
 
 ## 💡 Learning Philosophy
 
