@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DOM Task Manager</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <main class="container">
+        <header class="hero">
+            <p class="eyebrow">DAY 6 • DOM & EVENTS</p>
+            <h1>Interactive Task Manager</h1>
+            <p>Add, complete, and remove tasks using JavaScript DOM manipulation.</p>
+        </header>
+
+        <section class="task-app">
+            <form id="task-form" class="task-form">
+                <label for="task-input">New Task</label>
+                <div class="input-row">
+                    <input
+                        type="text"
+                        id="task-input"
+                        placeholder="e.g. Practice JavaScript"
+                        autocomplete="off"
+                    >
+                    <button type="submit">Add Task</button>
+                </div>
+                <p id="error-message" class="error" aria-live="polite"></p>
+            </form>
+
+            <div class="task-header">
+                <h2>My Tasks</h2>
+                <span id="task-count">0 tasks</span>
+            </div>
+
+            <ul id="task-list" class="task-list"></ul>
+
+            <p id="empty-message" class="empty-message">
+                No tasks yet. Add your first task!
+            </p>
+        </section>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>
