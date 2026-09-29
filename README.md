@@ -28,7 +28,7 @@ Build strong frontend and backend skills by learning concepts, practicing regula
 | CSS Basics | 🟢 Day 2 Completed |
 | CSS Layout | 🟢 Day 3 Completed |
 | Responsive Design | 🟢 Day 4 Completed |
-| JavaScript | 🟢 Day 5 Completed |
+| JavaScript | 🟢 Day 6 Completed |
 | React | 🔵 Upcoming |
 | Backend | 🔵 Upcoming |
 | Full-Stack Projects | 🔵 Upcoming |
@@ -72,6 +72,15 @@ Build strong frontend and backend skills by learning concepts, practicing regula
 - `05-javascript-basics/style.css`
 - `05-javascript-basics/script.js`
 - `05-javascript-basics/README.md`
+
+## 📂 Day 6
+
+### DOM & Events — Interactive Task Manager
+
+- `06-dom/index.html`
+- `06-dom/style.css`
+- `06-dom/script.js`
+- `06-dom/README.md`
 
 ## 💡 Learning Philosophy
 
