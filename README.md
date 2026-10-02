@@ -29,7 +29,7 @@ Build strong frontend and backend skills by learning concepts, practicing regula
 | CSS Layout | 🟢 Day 3 Completed |
 | Responsive Design | 🟢 Day 4 Completed |
 | JavaScript | 🟢 Day 7 Completed |
-| React | 🔵 Upcoming |
+| React | 🟢 Day 8 Completed |
 | Backend | 🔵 Upcoming |
 | Full-Stack Projects | 🔵 Upcoming |
 
@@ -90,6 +90,17 @@ Build strong frontend and backend skills by learning concepts, practicing regula
 - `07-javascript-projects/style.css`
 - `07-javascript-projects/script.js`
 - `07-javascript-projects/README.md`
+
+## 📂 Day 8
+
+### React — Task Dashboard
+
+- `08-react/package.json`
+- `08-react/index.html`
+- `08-react/src/main.jsx`
+- `08-react/src/App.jsx`
+- `08-react/src/App.css`
+- `08-react/README.md`
 
 ## 💡 Learning Philosophy
 
