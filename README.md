@@ -30,7 +30,7 @@ Build strong frontend and backend skills by learning concepts, practicing regula
 | Responsive Design | 🟢 Day 4 Completed |
 | JavaScript | 🟢 Day 7 Completed |
 | React | 🟢 Day 8 Completed |
-| Backend | 🔵 Upcoming |
+| Backend | 🟢 Day 9 Completed |
 | Full-Stack Projects | 🔵 Upcoming |
 
 ## 📂 Day 1
@@ -107,3 +107,26 @@ Build strong frontend and backend skills by learning concepts, practicing regula
 ```text
 Learn → Practice → Build → Document → Improve
 ```
+
+
+## 📂 Day 9
+
+### Node.js + Express — Task REST API
+
+- `09-node-express/package.json`
+- `09-node-express/server.js`
+- `09-node-express/.gitignore`
+- `09-node-express/README.md`
+
+### API Features
+
+- GET all tasks
+- GET a single task
+- POST a new task
+- PATCH a task
+- DELETE a task
+- JSON request handling
+- Route parameters
+- Status codes
+- 404 route handling
+- Basic error handling
