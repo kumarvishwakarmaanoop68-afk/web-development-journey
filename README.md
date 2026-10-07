@@ -30,7 +30,7 @@ Build strong frontend and backend skills by learning concepts, practicing regula
 | Responsive Design | 🟢 Day 4 Completed |
 | JavaScript | 🟢 Day 7 Completed |
 | React | 🟢 Day 8 Completed |
-| Backend | 🟢 Day 9 Completed |
+| Backend | 🟢 Day 10 Completed |
 | Full-Stack Projects | 🔵 Upcoming |
 
 ## 📂 Day 1
@@ -101,6 +101,25 @@ Build strong frontend and backend skills by learning concepts, practicing regula
 - `08-react/src/App.jsx`
 - `08-react/src/App.css`
 - `08-react/README.md`
+
+## 📂 Day 10
+
+### MongoDB + Express — Task REST API
+
+- `10-mongodb/package.json`
+- `10-mongodb/server.js`
+- `10-mongodb/.env.example`
+- `10-mongodb/.gitignore`
+- `10-mongodb/README.md`
+
+### Database Features
+
+- MongoDB connection with Mongoose
+- Schema and model
+- Create, read, update, delete
+- Persistent task storage
+- Environment variables
+- Express REST API
 
 ## 💡 Learning Philosophy
 
