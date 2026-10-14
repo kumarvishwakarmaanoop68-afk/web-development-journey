@@ -30,7 +30,7 @@ Build strong frontend and backend skills by learning concepts, practicing regula
 | Responsive Design | 🟢 Day 4 Completed |
 | JavaScript | 🟢 Day 7 Completed |
 | React | 🟢 Day 8 Completed |
-| Backend | 🟢 Day 10 Completed |
+| Backend | 🟢 Day 11 Completed |
 | Full-Stack Projects | 🔵 Upcoming |
 
 ## 📂 Day 1
@@ -120,6 +120,25 @@ Build strong frontend and backend skills by learning concepts, practicing regula
 - Persistent task storage
 - Environment variables
 - Express REST API
+
+## 📂 Day 11
+
+### Authentication + JWT — Auth API
+
+- `11-auth-jwt/package.json`
+- `11-auth-jwt/server.js`
+- `11-auth-jwt/.env.example`
+- `11-auth-jwt/.gitignore`
+- `11-auth-jwt/README.md`
+
+### Authentication Features
+
+- Register and login endpoints
+- Password hashing with bcryptjs
+- JWT creation and verification
+- Bearer-token middleware
+- Protected profile route
+- Basic validation and error responses
 
 ## 💡 Learning Philosophy
 
