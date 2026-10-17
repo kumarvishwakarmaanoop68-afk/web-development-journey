@@ -31,7 +31,7 @@ Build strong frontend and backend skills by learning concepts, practicing regula
 | JavaScript | 🟢 Day 7 Completed |
 | React | 🟢 Day 8 Completed |
 | Backend | 🟢 Day 11 Completed |
-| Full-Stack Projects | 🔵 Upcoming |
+| Full-Stack Projects | 🟢 Day 12 Completed |
 
 ## 📂 Day 1
 
@@ -139,6 +139,26 @@ Build strong frontend and backend skills by learning concepts, practicing regula
 - Bearer-token middleware
 - Protected profile route
 - Basic validation and error responses
+
+## 📂 Day 12
+
+### Full-Stack Integration — React Task Studio
+
+- `12-fullstack-integration/package.json`
+- `12-fullstack-integration/index.html`
+- `12-fullstack-integration/vite.config.js`
+- `12-fullstack-integration/src/main.jsx`
+- `12-fullstack-integration/src/App.jsx`
+- `12-fullstack-integration/src/style.css`
+- `12-fullstack-integration/README.md`
+
+### Full-Stack Features
+
+- React frontend
+- Fetch API requests to backend
+- GET, POST, PATCH and DELETE
+- Loading, error and success states
+- Environment-based API URL
 
 ## 💡 Learning Philosophy
 
